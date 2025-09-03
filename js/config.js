@@ -27,7 +27,7 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
-    //ARCHIVE https://telegra.ph/APIs-08-12
+    ARCHIVE https://telegra.ph/APIs-08-12
 };
 
 // 定义合并方法
